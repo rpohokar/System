@@ -1,2 +1,6 @@
 rasika first file 
+<<<<<<< HEAD
+wow great!!
+=======
 folder done at well
+>>>>>>> origin/master
